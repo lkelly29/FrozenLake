@@ -2,8 +2,11 @@
 """
 Created on Wed Feb 26 14:15:36 2020
 
-@author: Kelly
-
+S: initial state 
+F: frozen lake 
+H: hole 
+G: the goal 
+Red square: indicates the current position of the player
 
 """
 import gym
